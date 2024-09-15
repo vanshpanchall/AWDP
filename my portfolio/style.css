@@ -429,7 +429,7 @@ section.work {
   align-content: center;
 }
 section .section-heading {
-  padding-left: 300px;
+  padding-left: 400px;
   font-size: 55px;
   font-weight: 700;
   text-decoration: underline dotted #ca1f3d;
@@ -443,13 +443,13 @@ section.work .card-wrapper {
 }
 .card-wrapper {
   display: block;
-  margin-left: 15%;
+  margin-left: 20%;
   margin-right: auto;
   width: 60%;
 }
 section.work .card-wrapper .card {
   position: relative;
-  justify-content: center;
+  justify-content: ceter;
   font-size: 35px;
   height: 295px;
   width: 525px;
